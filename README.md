@@ -1,8 +1,8 @@
 # water-analysis
 
-## What's the proHow technology helps ?
+## What's the problem ?
 <hr>
-We have created a website using HTML,CSS, JAVASCRIPT, PHP and MYSQL.
+We have created a website using Android Studio, Mysql, Jupyter Notebook.
 We have predicted the quality of water using Machine learning algorithm. We have taken a dataset and have formatted the data to fit into the ML model. We have trained the model using the random forest classifier and it has given us a perfect efficiency of 100%.blem ?
 There is scarcity of clean water in the whole world. 
 
